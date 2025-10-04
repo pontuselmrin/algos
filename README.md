@@ -1,13 +1,14 @@
 # Algorithms in C
 
-A collection of common algorithms and data structures implemented in C for educational purposes and practical use.
+A collection of common algorithms and data structures implemented in C in the spirit of learning.
 
 ## Project Overview
 
 This project provides implementations of fundamental algorithms and data structures.
-I will put data structures and algorithms here as time goes by; for more extensive background on a given implementation, refer to my website pontuselmrin.github.io.
+I will put data structures and algorithms here as time goes by; for more extensive background on a given implementation, refer to my website http://pontuselmrin.github.io.
 
-## 🚀 Getting Started
+
+## Getting Started
 
 ### Prerequisites
 - CMake 3.14 or higher
@@ -28,7 +29,7 @@ ctest --test-dir build
 
 For more detailed build instructions, see [BUILDING](BUILDING.md).
 
-## 📖 Usage
+## Usage
 
 ```c
 #include "algos/sorting.h"
@@ -44,10 +45,6 @@ int main(void) {
 }
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING](CONTRIBUTING.md) for details on how to contribute to this project.
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
